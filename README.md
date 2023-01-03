@@ -1,2 +1,1 @@
-2 = 3
-two to too
+Learning things at Oregon State University.
