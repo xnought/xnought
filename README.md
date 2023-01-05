@@ -1,1 +1,1 @@
-Learning things at Oregon State University.
+Learning at Oregon State University.
