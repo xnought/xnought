@@ -1,1 +1,1 @@
-Learning at Oregon State University.
+Learning at Oregon State University. Reflecting, dissolving, growing.
