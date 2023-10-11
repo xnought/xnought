@@ -4,5 +4,5 @@ I've been reflecting, dissolving, growing, noticing, focusing, being, reading, s
 
 <details>
   <summary>Click for joy</summary>
-  <img src="https://github.com/xnought/xnought/assets/65095341/8e326fea-5603-4a9e-a242-4ab7ae991ffb" >
+  <img src="https://github.com/xnought/xnought/assets/65095341/8c5645a0-cb4c-4538-8ae4-19f382c827d6" >
 </details>
