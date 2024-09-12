@@ -2,5 +2,5 @@
 
 <details>
   <summary>Click for a surprise</summary>
-  <img src="https://github.com/xnought/xnought/assets/65095341/8c5645a0-cb4c-4538-8ae4-19f382c827d6" >
+  <img src="https://github.com/user-attachments/assets/e83d5ede-2e35-421f-9cf8-b8424c97e3a9" >
 </details>
