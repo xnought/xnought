@@ -1,4 +1,4 @@
-More details and contect info on https://donnybertucci.com
+More details and contact info on https://donnybertucci.com
 
 <details>
   <summary>Click for a surprise</summary>
