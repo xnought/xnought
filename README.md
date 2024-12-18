@@ -5,3 +5,13 @@
   <img src="https://github.com/user-attachments/assets/1b845711-305e-481b-95d2-5a4d371184b4">
 </details>
 
+
+## Live Interactive Visualizations / Articles
+
+- https://xnought.github.io/backprop-explainer/
+- https://xnought.github.io/vae-explainer/
+- https://xnought.github.io/vq-vae-explainer/
+- https://introduction-to-autoencoders.vercel.app/
+- https://xnought.github.io/neural-net-compression-vis/quant
+- https://xnought.github.io/foundation/
+
