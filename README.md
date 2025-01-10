@@ -7,7 +7,10 @@
 - https://xnought.github.io/vq-vae-explainer/
 - https://introduction-to-autoencoders.vercel.app/
 - https://xnought.github.io/neural-net-compression-vis/quant
+- https://div-lab.github.io/dendromap/
 - https://xnought.github.io/foundation/
+- https://dig.cmu.edu/falcon-vis/crossfilter-duckdb/
+- 
 
 <details>
   <summary>Click here for a surprise</summary>
