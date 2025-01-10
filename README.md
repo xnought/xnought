@@ -10,6 +10,7 @@
 - https://div-lab.github.io/dendromap/
 - https://xnought.github.io/foundation/
 - https://dig.cmu.edu/falcon-vis/crossfilter-duckdb/
+- https://venome.cqls.oregonstate.edu/proteins
 - https://atlas.nomic.ai/data/donnybertucci/swissprot-proteinclip/map
 - https://ocular.cc.gatech.edu/DS569k/
 
