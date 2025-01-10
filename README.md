@@ -1,6 +1,6 @@
 **My Website:** https://donnybertucci.com
 
-**Live Interactive Visualizations / Articles**
+**Live Interactive Visualizations / Articles / Demos**
 
 - https://xnought.github.io/backprop-explainer/
 - https://xnought.github.io/vae-explainer/
@@ -10,6 +10,8 @@
 - https://div-lab.github.io/dendromap/
 - https://xnought.github.io/foundation/
 - https://dig.cmu.edu/falcon-vis/crossfilter-duckdb/
+- https://atlas.nomic.ai/data/donnybertucci/swissprot-proteinclip/map
+- https://ocular.cc.gatech.edu/DS569k/
 
 <details>
   <summary>Click here for a surprise</summary>
