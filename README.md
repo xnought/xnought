@@ -38,5 +38,7 @@
 - https://github.com/xnought/evolutionarily-stable-strategies
 - https://github.com/xnought/linear-regression-two-ways
 - https://github.com/xnought/integral-rust
+- https://github.com/xnought/matmul.c
+  
 </details>
 
