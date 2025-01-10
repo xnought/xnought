@@ -13,6 +13,7 @@
 - https://venome.cqls.oregonstate.edu/proteins
 - https://atlas.nomic.ai/data/donnybertucci/swissprot-proteinclip/map
 - https://ocular.cc.gatech.edu/DS569k/
+- https://xnought.github.io/explore-arcagi/
 
 <details>
   <summary>Click here for a surprise</summary>
