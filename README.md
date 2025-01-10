@@ -1,7 +1,6 @@
 **My Website:** https://donnybertucci.com
 
 **Live Interactive Visualizations / Articles / Demos**
-
 - https://xnought.github.io/backprop-explainer/
 - https://xnought.github.io/vae-explainer/
 - https://xnought.github.io/vq-vae-explainer/
@@ -17,7 +16,8 @@
 - https://ocular.cc.gatech.edu/DS569k/
 - https://xnought.github.io/explore-arcagi/
 
-**Random Repos you might find interesting**
+<details>
+  <summary>Click here to see more random projects you might find interesting</summary>
 
 - https://github.com/xnought/rand-eca
 - https://github.com/xnought/grid-assign
@@ -38,3 +38,5 @@
 - https://github.com/xnought/evolutionarily-stable-strategies
 - https://github.com/xnought/linear-regression-two-ways
 - https://github.com/xnought/integral-rust
+</details>
+
