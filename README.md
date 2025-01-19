@@ -19,6 +19,7 @@
 <details>
   <summary>Click here to see more random projects you might find interesting</summary>
 
+- https://github.com/cmudig/falcon-vis/
 - https://github.com/xnought/rand-eca
 - https://github.com/xnought/grid-assign
 - https://github.com/xnought/numerical-linear-algebra
