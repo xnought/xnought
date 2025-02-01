@@ -15,7 +15,7 @@
 <details>
   <summary>Click here to see more random projects you might find interesting</summary>
   
-- https://github.com/xnought/tensor-webgpu (Tensor GPU Library with custom WebGPU kernels) 
+- https://github.com/xnought/tensorscript (Tensor Libary entirely on WebGPU + autograd) 
 - https://github.com/xnought/webgpu-compute (WebGPU JS Library to easily run compute shader/kernels)
 - https://github.com/cmudig/falcon-vis/ (Cross-filter billions of data points with no delay in JS)
 - https://github.com/xnought/rand-eca (Random Number Generator with Elementary Cellular Automata in Matlab)
