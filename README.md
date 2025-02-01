@@ -7,6 +7,7 @@
 - https://introduction-to-autoencoders.vercel.app/ (Article: learn how vanilla autoencoders work with live training)
 - https://xnought.github.io/neural-net-compression-vis/quant (Article: learn how quantization changes neural network behavior)
 - https://div-lab.github.io/dendromap/ (Vis: explore ML Image datasets at scale)
+- https://tsne-grid-js.vercel.app/ (Vis: TSNE Grid)
 - https://dig.cmu.edu/falcon-vis/crossfilter-duckdb/ (Vis: Cross-filter histograms for millions of data points)
 - https://venome.cqls.oregonstate.edu/proteins (Vis: find similar venom protein structures)
 - https://atlas.nomic.ai/data/donnybertucci/swissprot-proteinclip/map (Vis: explore the function of hundreds of thousands of proteins in a scatterplot)
