@@ -9,7 +9,7 @@
 - https://div-lab.github.io/dendromap/ (Vis: explore ML Image datasets at scale)
 - https://tsne-grid-js.vercel.app/ (Vis: Explore image embeddings with TSNE Grid)
 - https://dig.cmu.edu/falcon-vis/crossfilter-duckdb/ (Vis: Cross-filter histograms for millions of data points)
-- https://venome.cqls.oregonstate.edu/proteins (Vis: find similar venom protein structures)
+- https://venome.cqls.oregonstate.edu/proteins (Vis: analyze venom protein structures for function)
 - https://atlas.nomic.ai/data/donnybertucci/swissprot-proteinclip/map (Vis: explore the function of hundreds of thousands of proteins in a scatterplot)
 - https://xnought.github.io/explore-arcagi/ (Vis: explore all data points in the public ARC-AGI v1 dataset)
 
