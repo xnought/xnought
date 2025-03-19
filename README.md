@@ -1,14 +1,14 @@
 https://donnybertucci.com
 
-**Check out one of my interactive articles :memo: or :bar_chart: visualizations!**
+**Check out one of my interactive articles :page_facing_up: or :bar_chart: visualizations!**
 
 | Type  | Link | Description |
 |---|---|--|
-| :memo: | [Backprop Explainer](https://xnought.github.io/backprop-explainer/)  | Learn backpropagation with interactive visualizations and live training|
+| :page_facing_up: | [Backprop Explainer](https://xnought.github.io/backprop-explainer/)  | Learn backpropagation with interactive visualizations and live training|
 |:bar_chart:| [VAE Explainer](https://xnought.github.io/vae-explainer/)| Live running Varational Autoencoder with interactive data|
 |:bar_chart:| [VQ-VAE Explainer](https://xnought.github.io/vq-vae-explainer/)| Live running Vector-Quantized Varational Autoencoder with interactive data|
-|:memo:| [Interactive Autoencoders](https://introduction-to-autoencoders.vercel.app/)| Learn how vanilla autoencoders work with live training|
-|:memo:| [Neural Net Quantization](https://xnought.github.io/neural-net-compression-vis/quant)| Learn how quantization changes neural network behavior|
+|:page_facing_up:| [Interactive Autoencoders](https://introduction-to-autoencoders.vercel.app/)| Learn how vanilla autoencoders work with live training|
+|:page_facing_up:| [Neural Net Quantization](https://xnought.github.io/neural-net-compression-vis/quant)| Learn how quantization changes neural network behavior|
 |:bar_chart:| [DendroMap CIFAR](https://div-lab.github.io/dendromap/)| Explore ML Image datasets at scale (CIFAR resnet embeddings)|
 |:bar_chart:| [DendroMap MNIST](https://div-lab.github.io/dendromap/?mnist)| Explore ML Image datasets at scale (VAE MNIST embeddings)|
 |:bar_chart:| [TSNE Grid CIFAR](https://tsne-grid-js.vercel.app/)| Explore image embeddings with TSNE Grid|
@@ -18,7 +18,7 @@ https://donnybertucci.com
 |:bar_chart:| [Venome](https://venome.cqls.oregonstate.edu/proteins)| Analyze venom protein structures for function|
 |:bar_chart:| [UMAP Proteins](https://atlas.nomic.ai/data/donnybertucci/swissprot-proteinclip/map)| Explore the function of hundreds of thousands of proteins in a scatterplot|
 |:bar_chart:| [Explore ARC AGI](https://xnought.github.io/explore-arcagi/)| Explore all data points in the public ARC-AGI v1 dataset|
-|:memo:| [Resnet Face Localizer](https://www.donnybertucci.com/project/deeplocalizer#blog)| fMRI localization on a Resnet model |
+|:page_facing_up:| [Resnet Face Localizer](https://www.donnybertucci.com/project/deeplocalizer#blog)| fMRI localization on a Resnet model |
 
 <details>
   <summary>Click here to see more random projects you might find interesting</summary>
