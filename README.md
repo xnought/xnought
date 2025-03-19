@@ -1,6 +1,6 @@
 **My Website:** https://donnybertucci.com
 
-**Check out one of my interactive :memo: articles or :bar_chart: visualizations!**
+**Check out one of my interactive articles :memo: or :bar_chart: visualizations!**
 
 | Type  | Link | Description |
 |---|---|--|
