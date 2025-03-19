@@ -1,17 +1,24 @@
 **My Website:** https://donnybertucci.com
 
-**Check out one of my interactive articles or visualizations!**
-- https://xnought.github.io/backprop-explainer/ (Article: learn backpropagation with interactive visualizations and live training)
-- https://xnought.github.io/vae-explainer/ (Vis: live running Varational Autoencoder with interactive data)
-- https://xnought.github.io/vq-vae-explainer/ (Vis: live running Vector-Quantized Varational Autoencoder with interactive data)
-- https://introduction-to-autoencoders.vercel.app/ (Article: learn how vanilla autoencoders work with live training)
-- https://xnought.github.io/neural-net-compression-vis/quant (Article: learn how quantization changes neural network behavior)
-- https://div-lab.github.io/dendromap/ (Vis: explore ML Image datasets at scale)
-- https://tsne-grid-js.vercel.app/ (Vis: Explore image embeddings with TSNE Grid)
-- https://dig.cmu.edu/falcon-vis/crossfilter-duckdb/ (Vis: Cross-filter histograms for millions of data points)
-- https://venome.cqls.oregonstate.edu/proteins (Vis: analyze venom protein structures for function)
-- https://atlas.nomic.ai/data/donnybertucci/swissprot-proteinclip/map (Vis: explore the function of hundreds of thousands of proteins in a scatterplot)
-- https://xnought.github.io/explore-arcagi/ (Vis: explore all data points in the public ARC-AGI v1 dataset)
+**Check out one of my interactive :memo: articles or :bar_chart: visualizations!**
+
+| Type  | Link | Description |
+|---|---|--|
+| :memo: | [Backprop Explainer](https://xnought.github.io/backprop-explainer/)  | Learn backpropagation with interactive visualizations and live training|
+|:bar_chart:| [VAE Explainer](https://xnought.github.io/vae-explainer/)| Live running Varational Autoencoder with interactive data|
+|:bar_chart:| [VQ-VAE Explainer](https://xnought.github.io/vq-vae-explainer/)| Live running Vector-Quantized Varational Autoencoder with interactive data|
+|:memo:| [Interactive Autoencoders](https://introduction-to-autoencoders.vercel.app/)| Learn how vanilla autoencoders work with live training|
+|:memo:| [Neural Net Quantization](https://xnought.github.io/neural-net-compression-vis/quant)| Learn how quantization changes neural network behavior|
+|:bar_chart:| [DendroMap CIFAR](https://div-lab.github.io/dendromap/)| explore ML Image datasets at scale (CIFAR resnet embeddings)|
+|:bar_chart:| [DendroMap MNIST](https://div-lab.github.io/dendromap/?mnist)| explore ML Image datasets at scale (VAE MNIST embeddings)|
+|:bar_chart:| [TSNE Grid CIFAR](https://tsne-grid-js.vercel.app/)| Explore image embeddings with TSNE Grid|
+|:bar_chart:| [TSNE Grid Live MNIST](https://observablehq.com/@xnought/t-sne-grid-live)| See TSNE over time gridified with ObservableHQ|
+|:bar_chart:| [Cross-filter Flights](https://dig.cmu.edu/falcon-vis/crossfilter-duckdb/)| Cross-filter histograms for millions of data points|
+|:bar_chart:| [Cross-filter Movies](https://dig.cmu.edu/falcon-vis/movies-arrow/)| Cross-filter histograms for 3k movies|
+|:bar_chart:| [Venome](https://venome.cqls.oregonstate.edu/proteins)| Analyze venom protein structures for function|
+|:bar_chart:| [UMAP Proteins](https://atlas.nomic.ai/data/donnybertucci/swissprot-proteinclip/map)| Explore the function of hundreds of thousands of proteins in a scatterplot|
+|:bar_chart:| [Explore ARC AGI](https://xnought.github.io/explore-arcagi/)| Explore all data points in the public ARC-AGI v1 dataset|
+|:memo:| [Resnet Face Localizer](https://www.donnybertucci.com/project/deeplocalizer#blog)| fMRI localization on a Resnet model |
 
 <details>
   <summary>Click here to see more random projects you might find interesting</summary>
