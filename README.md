@@ -9,8 +9,8 @@
 |:bar_chart:| [VQ-VAE Explainer](https://xnought.github.io/vq-vae-explainer/)| Live running Vector-Quantized Varational Autoencoder with interactive data|
 |:memo:| [Interactive Autoencoders](https://introduction-to-autoencoders.vercel.app/)| Learn how vanilla autoencoders work with live training|
 |:memo:| [Neural Net Quantization](https://xnought.github.io/neural-net-compression-vis/quant)| Learn how quantization changes neural network behavior|
-|:bar_chart:| [DendroMap CIFAR](https://div-lab.github.io/dendromap/)| explore ML Image datasets at scale (CIFAR resnet embeddings)|
-|:bar_chart:| [DendroMap MNIST](https://div-lab.github.io/dendromap/?mnist)| explore ML Image datasets at scale (VAE MNIST embeddings)|
+|:bar_chart:| [DendroMap CIFAR](https://div-lab.github.io/dendromap/)| Explore ML Image datasets at scale (CIFAR resnet embeddings)|
+|:bar_chart:| [DendroMap MNIST](https://div-lab.github.io/dendromap/?mnist)| Explore ML Image datasets at scale (VAE MNIST embeddings)|
 |:bar_chart:| [TSNE Grid CIFAR](https://tsne-grid-js.vercel.app/)| Explore image embeddings with TSNE Grid|
 |:bar_chart:| [TSNE Grid Live MNIST](https://observablehq.com/@xnought/t-sne-grid-live)| See TSNE over time gridified with ObservableHQ|
 |:bar_chart:| [Cross-filter Flights](https://dig.cmu.edu/falcon-vis/crossfilter-duckdb/)| Cross-filter histograms for millions of data points|
