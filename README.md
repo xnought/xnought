@@ -1,6 +1,6 @@
 https://donnybertucci.com
 
-**Check out one of my interactive articles :page_facing_up: or :bar_chart: visualizations!**
+**Check out one of my interactive articles:page_facing_up: or visualizations:bar_chart:!**
 
 | Type  | Link | Description |
 |---|---|--|
