@@ -1,4 +1,4 @@
-**My Website:** https://donnybertucci.com
+https://donnybertucci.com
 
 **Check out one of my interactive articles :memo: or :bar_chart: visualizations!**
 
