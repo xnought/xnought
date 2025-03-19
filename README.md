@@ -1,6 +1,6 @@
 **My Website:** https://donnybertucci.com
 
-**Live Articles/Visualizations in the Browser**
+**Check out one of my interactive articles or visualizations!**
 - https://xnought.github.io/backprop-explainer/ (Article: learn backpropagation with interactive visualizations and live training)
 - https://xnought.github.io/vae-explainer/ (Vis: live running Varational Autoencoder with interactive data)
 - https://xnought.github.io/vq-vae-explainer/ (Vis: live running Vector-Quantized Varational Autoencoder with interactive data)
