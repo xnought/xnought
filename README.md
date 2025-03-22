@@ -23,6 +23,7 @@ https://donnybertucci.com
 <details>
   <summary>Click here to see more random projects you might find interesting</summary>
   
+- https://github.com/xnought/bpe.cpp (byte-pair encoder training in c++ for speed)
 - https://github.com/xnought/biogen (GPT-like model implemented from scratch for generating paper titles from bioRxiv)
 - https://github.com/xnought/deeplocalizer (Find function specific activations in torch models w/ fMRI-like localization)
 - https://github.com/xnought/tensorscript (Tensor Libary entirely on WebGPU + autograd) 
