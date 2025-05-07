@@ -15,8 +15,8 @@ https://donnybertucci.com
 |:bar_chart:| [TSNE Grid Live MNIST](https://observablehq.com/@xnought/t-sne-grid-live)| See TSNE over time gridified with ObservableHQ|
 |:bar_chart:| [Cross-filter Flights](https://dig.cmu.edu/falcon-vis/crossfilter-duckdb/)| Cross-filter histograms for millions of data points|
 |:bar_chart:| [Cross-filter Movies](https://dig.cmu.edu/falcon-vis/movies-arrow/)| Cross-filter histograms for 3k movies|
-|:bar_chart:| [Venome](https://venome.cqls.oregonstate.edu/proteins)| Analyze venom protein structures for function|
-|:bar_chart:| [UMAP Proteins](https://atlas.nomic.ai/data/donnybertucci/swissprot-proteinclip/map)| Explore the function of hundreds of thousands of proteins in a scatterplot|
+|:bar_chart:| [Explore Venom Proteins](https://venome.cqls.oregonstate.edu/proteins)| Analyze venom protein structures for function|
+|:bar_chart:| [UMAP Swissprot Proteins](https://atlas.nomic.ai/data/donnybertucci/swissprot-proteinclip/map)| Explore the function of hundreds of thousands of proteins in a scatterplot|
 |:bar_chart:| [Explore ARC AGI](https://xnought.github.io/explore-arcagi/)| Explore all data points in the public ARC-AGI v1 dataset|
 |:page_facing_up:| [Resnet Face Localizer](https://www.donnybertucci.com/project/deeplocalizer#blog)| fMRI localization on a Resnet model |
 
