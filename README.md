@@ -22,6 +22,7 @@ https://donnybertucci.com
 
 <details>
   <summary>Click here to see more random projects you might find interesting</summary>
+  
 - https://github.com/xnought/dnacount.go (Count DNA Nucleotide frequencies and GC Bias from FASTA in Parallel in Go)
 - https://github.com/xnought/bpe.cpp (byte-pair encoder training in c++ for speed)
 - https://github.com/xnought/biogen (GPT-like model implemented from scratch for generating paper titles from bioRxiv)
